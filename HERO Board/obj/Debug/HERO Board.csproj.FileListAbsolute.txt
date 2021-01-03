@@ -1,0 +1,23 @@
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\le\HERO Board.exe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\be\HERO Board.exe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\le\HERO Board.pdb
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\be\HERO Board.pdb
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\HERO Board.exe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\HERO Board.pdb
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\le\HERO Board.pe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\le\HERO Board.pdbx
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\be\HERO Board.pe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\bin\Debug\be\HERO Board.pdbx
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO Board.csprojAssemblyReference.cache
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO Board.csproj.CoreCompileInputs.cache
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO Board.exe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO Board.pdb
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO_Board.Properties.Resources.resources
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO Board.csproj.GenerateResource.cache
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\HERO_Board.Properties.Resources.tinyresources
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\TinyResGen.cache
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\be\HERO Board.pe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\be\HERO Board.pdbx
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\le\HERO Board.pe
+C:\Users\24ThomasT\source\repos\HERO Board\HERO Board\obj\Debug\le\HERO Board.pdbx
