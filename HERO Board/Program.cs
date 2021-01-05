@@ -713,7 +713,7 @@ namespace HERO_Board
 
             label2.SetText("Speed: " + (int) System.Math.Round(yAxisB * 1000));
             label3.SetText("Sleep: " + tSleep.ToString() + "ms");
-            title.SetText("Piston Control");
+            title.SetText("Pneumatic Control");
         }
     }
 }
